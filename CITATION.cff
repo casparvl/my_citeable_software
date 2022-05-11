@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: my_citeable_software
+message: >-
+  If you use this software, please cite using the
+  metadata from this file
+type: software
+authors:
+  - given-names: Caspar
+    family-names: my_last_name
+    email: my_email@my_company.com
+    affiliation: my_company
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
